@@ -1,2 +1,2 @@
 # ChatBot-AI
-Developed ChatBot using OpenAI API
+Developed ChatBot using Swift UIKit and OpenAI API.
